@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608917856 source:/home/mayar/Desktop/MayarSemaphore/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
